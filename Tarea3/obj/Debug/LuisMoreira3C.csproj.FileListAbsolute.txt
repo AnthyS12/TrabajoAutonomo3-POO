@@ -1,0 +1,7 @@
+C:\Users\luis_\source\repos\LuisMoreira3C\Tarea3\bin\Debug\Tarea3.exe.config
+C:\Users\luis_\source\repos\LuisMoreira3C\Tarea3\bin\Debug\Tarea3.exe
+C:\Users\luis_\source\repos\LuisMoreira3C\Tarea3\bin\Debug\Tarea3.pdb
+C:\Users\luis_\source\repos\LuisMoreira3C\Tarea3\obj\Debug\LuisMoreira3C.csprojAssemblyReference.cache
+C:\Users\luis_\source\repos\LuisMoreira3C\Tarea3\obj\Debug\LuisMoreira3C.csproj.CoreCompileInputs.cache
+C:\Users\luis_\source\repos\LuisMoreira3C\Tarea3\obj\Debug\Tarea3.exe
+C:\Users\luis_\source\repos\LuisMoreira3C\Tarea3\obj\Debug\Tarea3.pdb
